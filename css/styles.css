@@ -304,7 +304,6 @@ img {
   color: var(--secondary);
 }
 
-/* TAKEAWAYS */
 .takeaways-cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -319,7 +318,6 @@ img {
   margin-right: 1rem;
 }
 
-/* DETAILS */
 .details .details-flex {
   display: flex;
   gap: 4rem;
@@ -354,7 +352,6 @@ img {
   margin-right: 0.5rem;
 }
 
-/* STATS */
 .stats {
   background: #000 url("../images/stats-background.jpg") center/cover no-repeat;
   color: #fff;
@@ -399,7 +396,6 @@ img {
   margin: 0 auto;
 }
 
-/* NEWSLETTER */
 .newsletter {
   text-align: center;
   margin: 0 2rem;
@@ -430,7 +426,6 @@ img {
   margin: 1rem 0;
 }
 
-/* SOCIAL */
 .social {
   background: var(--dark);
   color: #fff;
@@ -457,7 +452,6 @@ img {
   margin-top: 2rem;
 }
 
-/* FOOTER */
 .footer {
   background: var(--dark);
   color: #fff;
@@ -476,7 +470,6 @@ img {
   margin: 2rem 0;
 }
 
-/* INNER HEADER */
 .inner-header {
   background: var(--primary);
   color: #fff;
@@ -489,7 +482,6 @@ img {
   margin-bottom: 1rem;
 }
 
-/* CONTACT FORM */
 .contact-form p {
   margin-bottom: 3rem;
 }
@@ -514,7 +506,6 @@ img {
   display: block;
 }
 
-/* LOCATION */
 .location h2 {
   font-size: 2rem;
   font-weight: 700;
@@ -540,7 +531,6 @@ img {
   border: none;
 }
 
-/* MEDIA QUERIES */
 @media (max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;
